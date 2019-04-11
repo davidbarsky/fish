@@ -1,0 +1,1 @@
+/Users/dbarsky/.config/fish/functions/theme-pure/fish_greeting.fish

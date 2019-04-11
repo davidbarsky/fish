@@ -1,0 +1,1 @@
+/Users/dbarsky/.dotfiles/config/fish/completions/rustup.fish
